@@ -57,5 +57,5 @@ jobs:
           commit-message: "Refresh README AND BACK UP"
           files: README.md BACKUP/
           rebase: 'true'
-          name: ${{ env.GITHUB_NAME }}
-          email: ${{ env.GITHUB_EMAIL }}
+          name: phh95    
+          email: 602646761@qq.com     
