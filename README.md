@@ -4,7 +4,7 @@ My personal blog using issues and GitHub Actions
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
-- [今日记录    ](https://github.com/phh95/gitblog/issues/8)--2021-08-24
+- [今日记录](https://github.com/phh95/gitblog/issues/8)--2021-08-24
 - [和宝宝认识 1 年了](https://github.com/phh95/gitblog/issues/7)--2021-08-23
 - [前端学习](https://github.com/phh95/gitblog/issues/6)--2021-08-23
 - [从美区 Apple ID 下载 GitHub App](https://github.com/phh95/gitblog/issues/5)--2021-08-22
