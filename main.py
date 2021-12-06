@@ -168,7 +168,7 @@ def add_md_recent(repo, md, me):
 
 def add_md_header(md,repo_name):
     with open(md, "w", encoding="utf-8") as md:
-        md.write(MD_HEAD.format(repo=repo_name))     
+        md.write(MD_HEAD.format(repo_name=repo_name))     
 
 
 def add_md_label(repo, md, me):
@@ -214,7 +214,7 @@ def get_to_generate_issues(repo, dir_name, issue_number=None):
     return to_generate_issues
 
 
-def generate_rss_feed(repo, filename):
+def generate_rss_feed(repo, filename, me):
     generator = FeedGenerator()
     generator.id(repo.html_url)
     generator.title(f"RSS feed of {repo.owner.login}'s {repo.name}")
@@ -227,7 +227,7 @@ def generate_rss_feed(repo, filename):
         rel="self",
     )
     for issue in repo.get_issues():
-        if not issue.body:
+        if not issue.body or not is_me(issue, me) or issue.pull_request:    
             continue
         item = generator.add_entry(order="append")
         item.id(issue.html_url)
@@ -244,12 +244,12 @@ def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
     user = login(token)
     me = get_me(user)
     repo = get_repo(user, repo_name)
-    add_md_header("README.md", repo_name)
     # add to readme one by one, change order here
+    add_md_header("README.md", repo_name)    
     for func in [add_md_firends, add_md_top, add_md_recent, add_md_label, add_md_todo]:
         func(repo, "README.md", me)
         
-    generate_rss_feed(repo, "feed.xml")
+    generate_rss_feed(repo, "feed.xml", me)    
     to_generate_issues = get_to_generate_issues(repo, dir_name, issue_number)
 
     # save md files to backup folder
