@@ -227,7 +227,7 @@ def generate_rss_feed(repo, filename, me):
         rel="self",
     )
     for issue in repo.get_issues():
-        if not issue.body or not is_me(issue, me) or issue.pull_request:    
+        if not issue.body or not isMe(issue, me) or issue.pull_request:    
             continue
         item = generator.add_entry(order="append")
         item.id(issue.html_url)
