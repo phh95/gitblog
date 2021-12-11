@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/phh95/gitblog</id><title>RSS feed of phh95's gitblog</title><updated>2021-12-06T12:37:29.429903+00:00</updated><author><name>phh95</name><email>602646761@qq.com</email></author><link href="https://github.com/phh95/gitblog"/><link href="https://raw.githubusercontent.com/phh95/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/phh95/gitblog/issues/18</id><title>将网页内容保存到Notion的两个浏览器插件</title><updated>2021-12-06T12:37:29.649768+00:00</updated><content type="html"><![CDATA[<p>文/彭宏豪，本文首发于我的公众号「<a href="https://mp.weixin.qq.com/s/bdtVoL6dh4Vtru4eE1Tfxg">效率工具指南</a>」      </p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/phh95/gitblog</id><title>RSS feed of phh95's gitblog</title><updated>2021-12-11T13:38:35.235107+00:00</updated><author><name>phh95</name><email>602646761@qq.com</email></author><link href="https://github.com/phh95/gitblog"/><link href="https://raw.githubusercontent.com/phh95/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/phh95/gitblog/issues/19</id><title>电脑卡通头像Snap Camera</title><updated>2021-12-11T13:38:35.567416+00:00</updated><content type="html"><![CDATA[<p>Snap Camera，是 Snapchat 推出的客户端软件，支持 Windows 和 macOS 系统。    </p>
+<p>它可以制作类似下图的卡通头像，将人脸替换成看起来好好捏的卡通头像，像是我们在迪士尼动画中看到的人物。    </p>
+<p><img src="https://user-images.githubusercontent.com/29042617/145678510-3f91852a-62dd-4a4c-b61d-2a1a4abeab63.png" alt="image" />     </p>
+<p>下载地址：   </p>
+<p>官网 https://snapcamera.snapchat.com/download/       </p>
+<p>官网无法顺利下载，可以移步我的公众号「效率工具指南」，在后台回复「snap」，可获取 Windows 和 macOS 版本。    </p>
+<p>Snap Camera 可以配合其他软件一起使用，例如 OBS、Zoom、腾讯会议等。   </p>
+<p>下图是配合 OBS 使用的示例：   </p>
+<p><img src="https://user-images.githubusercontent.com/29042617/145678662-080360cf-0800-4b87-9248-efe290cdfe3b.png" alt="image" />    </p>
+<p>以上，希望有帮助。    </p>
+]]></content><link href="https://github.com/phh95/gitblog/issues/19" rel="alternate"/><published>2021-12-11T13:37:46+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/18</id><title>将网页内容保存到Notion的两个浏览器插件</title><updated>2021-12-11T13:38:35.719559+00:00</updated><content type="html"><![CDATA[<p>文/彭宏豪，本文首发于我的公众号「<a href="https://mp.weixin.qq.com/s/bdtVoL6dh4Vtru4eE1Tfxg">效率工具指南</a>」      </p>
 <p>Hello 各位好。   </p>
 <p>之前一篇文章介绍过一款<a href="https://mp.weixin.qq.com/s?__biz=MzAxMjY0NTY5OA==&amp;mid=2649918192&amp;idx=1&amp;sn=d2e4083599d625b419abf62e97af9dee&amp;chksm=83a88eddb4df07cb914cd71bad11816bb2fe02b393e7e01dbc0a93d32bd823e0691613a84e1a&amp;token=2008602560&amp;lang=zh_CN#rd">剪藏工具 Cubox</a>，可以很方便地保存公众号文章或网页内容，但这款工具有个不足的地方：收藏超过 200 篇内容，就需要开通会员。   </p>
 <p>除了充钱，Cubox 还有一个不太令我满意的地方，它与我正在使用的 Notion 是两个独立的软件，收藏与记录的东西不能放在同个软件，搜索东西比较麻烦。   </p>
@@ -35,7 +45,7 @@
 <h2>欢迎关注</h2>
 <p>以上，就是本次想和你分享的内容，希望能够对你有一点帮助。     </p>
 <p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/2021/05/28/gong-zhong-hao-wei-bu-er-wei-ma-dailogo.png" alt="公众号：效率工具指南" />          </p>
-]]></content><link href="https://github.com/phh95/gitblog/issues/18" rel="alternate"/><category term="App"/><published>2021-12-06T12:18:06+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/17</id><title>想起我在GitHub的博客了</title><updated>2021-12-06T12:37:29.739548+00:00</updated><content type="html"><![CDATA[<p>早上跑步的时候，听了 yihong 老师做客播客「Byte Talk」的一期节目《跟 YiHong 聊聊编程、开源和跑步》，才想起我在 GitHub 上弄的这个博客。有这个博客，也要感谢 yihong 老师。     </p>
+]]></content><link href="https://github.com/phh95/gitblog/issues/18" rel="alternate"/><category term="App"/><category term="Notion"/><published>2021-12-06T12:18:06+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/17</id><title>想起我在GitHub的博客了</title><updated>2021-12-11T13:38:35.870550+00:00</updated><content type="html"><![CDATA[<p>早上跑步的时候，听了 yihong 老师做客播客「Byte Talk」的一期节目《跟 YiHong 聊聊编程、开源和跑步》，才想起我在 GitHub 上弄的这个博客。有这个博客，也要感谢 yihong 老师。     </p>
 <p><img src="https://user-images.githubusercontent.com/29042617/143205057-5e26ca53-1763-48cc-99b3-ac567ad58468.png" alt="image" />    </p>
 <p>入职新工作将近一个月，慢慢适应中，每天早上 10:05 要开一个简短的「站会」，讲述自己昨天做的事、今天打算做的事。     </p>
 <p>记录一下早上站会说的：    </p>
@@ -43,12 +53,12 @@
 <li>昨天：和小组 Leader 确定训练营大纲；写了一部分推文内容   </li>
 <li>今天：争取今天写完训练营推文（第二版）            </li>
 </ul>
-]]></content><link href="https://github.com/phh95/gitblog/issues/17" rel="alternate"/><published>2021-11-24T08:54:53+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/16</id><title>要换到新的城市了</title><updated>2021-12-06T12:37:29.806849+00:00</updated><content type="html"><![CDATA[<p>上周五去深圳面试，面试通过了，下周就要入职了，即将换到新的城市——深圳。    </p>
+]]></content><link href="https://github.com/phh95/gitblog/issues/17" rel="alternate"/><published>2021-11-24T08:54:53+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/16</id><title>要换到新的城市了</title><updated>2021-12-11T13:38:36.009683+00:00</updated><content type="html"><![CDATA[<p>上周五去深圳面试，面试通过了，下周就要入职了，即将换到新的城市——深圳。    </p>
 <p>对新城市，需要重新适应。<br />
 对旧城市广州，有点不舍，毕竟包含上大学的时间，来广州有 7 年了。       </p>
 <p>昨天下午在微信听书上随便录了一点东西：       </p>
 <p><img src="https://user-images.githubusercontent.com/29042617/138541503-f4da98b1-c4ee-489b-bf8e-c9f8e2355d40.PNG" alt="album_temp_1634961178" />           </p>
-]]></content><link href="https://github.com/phh95/gitblog/issues/16" rel="alternate"/><category term="life"/><published>2021-10-23T03:53:46+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/15</id><title>下载微博视频的工具Maipo</title><updated>2021-12-06T12:37:29.885475+00:00</updated><content type="html"><![CDATA[<p>很早之前写过一篇文章《<a href="https://mp.weixin.qq.com/s?__biz=MzAxMjY0NTY5OA==&amp;mid=2649880387&amp;idx=1&amp;sn=267ce5c9473d02f57c32b520a2f10a9e&amp;chksm=83abf36eb4dc7a7840ea03c9a389279f8527deb52df4c63862b839bef4564ca63637f6e27e9a&amp;token=2120180942&amp;lang=zh_CN#rd">这10个下载工具，让你成为朋友圈最靓的仔</a>》，介绍了多个下载不同平台视频内容的方法，其中就有一个可用来<strong>下载微博视频</strong>的工具——<strong>iiilab</strong>。  </p>
+]]></content><link href="https://github.com/phh95/gitblog/issues/16" rel="alternate"/><category term="life"/><published>2021-10-23T03:53:46+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/15</id><title>下载微博视频的工具Maipo</title><updated>2021-12-11T13:38:36.148610+00:00</updated><content type="html"><![CDATA[<p>很早之前写过一篇文章《<a href="https://mp.weixin.qq.com/s?__biz=MzAxMjY0NTY5OA==&amp;mid=2649880387&amp;idx=1&amp;sn=267ce5c9473d02f57c32b520a2f10a9e&amp;chksm=83abf36eb4dc7a7840ea03c9a389279f8527deb52df4c63862b839bef4564ca63637f6e27e9a&amp;token=2120180942&amp;lang=zh_CN#rd">这10个下载工具，让你成为朋友圈最靓的仔</a>》，介绍了多个下载不同平台视频内容的方法，其中就有一个可用来<strong>下载微博视频</strong>的工具——<strong>iiilab</strong>。  </p>
 <p>原本只要将想下载的微博视频链接🔗粘贴到下方的输入框，就可以很方便地下载视频。   </p>
 <p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/2021/09/24/16324900690259.jpg" alt="" /></p>
 <p>但我前两天想用它来下载视频，意外地发现这个工具已经失效了。  </p>
@@ -68,7 +78,7 @@
 <p>如果你在手机上使用一些第三方的微博 App，可以自行查看一下，App 内是否提供了将视频保存到本地的功能，因为我没有使用第三方的 App，这里就无法提供相关信息了，见谅。   </p>
 <p>以上，就是本次想和你分享的内容。   </p>
 <p>如果对你也有帮助的话，别忘了点击下方的<strong>点赞、在看</strong>和<strong>分享</strong>按钮，<strong>你的小小支持，是我持续更新的最大动力</strong>，我们下次再见。       </p>
-]]></content><link href="https://github.com/phh95/gitblog/issues/15" rel="alternate"/><category term="download"/><published>2021-09-27T03:00:40+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/14</id><title>近期值得关注的App：将微信聊天记录导出为HTML</title><updated>2021-12-06T12:37:29.962100+00:00</updated><content type="html"><![CDATA[<p>好久没更新这类文章了，今天趁着假期，来更新一篇。</p>
+]]></content><link href="https://github.com/phh95/gitblog/issues/15" rel="alternate"/><category term="download"/><published>2021-09-27T03:00:40+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/14</id><title>近期值得关注的App：将微信聊天记录导出为HTML</title><updated>2021-12-11T13:38:36.290757+00:00</updated><content type="html"><![CDATA[<p>好久没更新这类文章了，今天趁着假期，来更新一篇。</p>
 <h2>夸克浏览器</h2>
 <p>夸克浏览器，这里不说夸克的缺点，只说我刚发现夸克的一个功能——<strong>夸克网盘</strong>。</p>
 <p>一个浏览器也推出了网盘功能，只能说现在的工具类产品变现太困难了。</p>
@@ -134,11 +144,11 @@
 <p>说实话，这个将聊天记录导出为 HTML 的方法，操作起来还是非常麻烦的，不适合大多数人。</p>
 <p>我还是期待传说中的「微信付费云存储」早日上线吧。。。不想折腾了，或者是换新手机更快。。。</p>
 <p>以上，希望有帮助。   </p>
-]]></content><link href="https://github.com/phh95/gitblog/issues/14" rel="alternate"/><category term="App"/><published>2021-09-20T02:44:12+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/13</id><title>失业后二三事：代缴社保</title><updated>2021-12-06T12:37:30.057969+00:00</updated><content type="html"><![CDATA[<p>失业半个月，最后还是沦落到了找人帮我代缴社保的地步。     </p>
+]]></content><link href="https://github.com/phh95/gitblog/issues/14" rel="alternate"/><category term="App"/><published>2021-09-20T02:44:12+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/13</id><title>失业后二三事：代缴社保</title><updated>2021-12-11T13:38:36.447766+00:00</updated><content type="html"><![CDATA[<p>失业半个月，最后还是沦落到了找人帮我代缴社保的地步。     </p>
 <p>刚问了一个帮人代缴社保的公众号的客服，说是每个月 16 号之后就没办法帮人代缴当月的社保和公积金了，社保交了非深户第 1 档，最便宜的一档，加上 220 元的公积金，加上服务费 120 元，总计 1413 元，肉疼唉。。。    </p>
 <p><img src="https://user-images.githubusercontent.com/29042617/133416668-24cf1628-fe86-4059-bde9-05179c6a7cad.png" alt="image" /><br />
 <img src="https://user-images.githubusercontent.com/29042617/133416940-c5171bdb-b6e3-4e94-a6cc-4d22389a52c3.png" alt="image" />     </p>
-]]></content><link href="https://github.com/phh95/gitblog/issues/13" rel="alternate"/><published>2021-09-15T10:25:48+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/12</id><title>死亡不是人生的终点，遗忘才是。     </title><updated>2021-12-06T12:37:30.125761+00:00</updated><content type="html"><![CDATA[<p>去年 10 月份我写了一篇搭建 Hexo 博客的文章《<a href="https://mp.weixin.qq.com/s/_izXrRi6eLav8NfLRaD6Mg">我终于拥有自己的独立博客了</a>》，时间很快，将近一年，连搭建博客用到的「腾讯云」这阵子都一直在提醒我：该给你的网站域名和服务器续费了。        </p>
+]]></content><link href="https://github.com/phh95/gitblog/issues/13" rel="alternate"/><published>2021-09-15T10:25:48+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/12</id><title>死亡不是人生的终点，遗忘才是。     </title><updated>2021-12-11T13:38:36.581344+00:00</updated><content type="html"><![CDATA[<p>去年 10 月份我写了一篇搭建 Hexo 博客的文章《<a href="https://mp.weixin.qq.com/s/_izXrRi6eLav8NfLRaD6Mg">我终于拥有自己的独立博客了</a>》，时间很快，将近一年，连搭建博客用到的「腾讯云」这阵子都一直在提醒我：该给你的网站域名和服务器续费了。        </p>
 <p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/2021/09/11/16313333655408.jpg" alt="" /></p>
 <p>有了公众号，为啥还要多去折腾一个博客呢？   </p>
 <p>我之前的想法是，希望在数字世界能有一个相对比较独立的家，任凭其他平台如何变化，眼看它们<strong>起高楼、宴宾客、见楼塌</strong>，我的博客还是我的，至少我的博客数据在本地和 GitHub 上各自有一个备份。   </p>
@@ -182,9 +192,9 @@
 <p>修改之后保存，再次将代码 push 到远端，刷新博客首页，刚遇到的问题就被解决了。   </p>
 <p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/2021/09/11/16313558318142.jpg" alt="" />    </p>
 <p>以上。     </p>
-]]></content><link href="https://github.com/phh95/gitblog/issues/12" rel="alternate"/><published>2021-09-11T15:53:29+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/11</id><title>离职的时间点</title><updated>2021-12-06T12:37:30.215764+00:00</updated><content type="html"><![CDATA[<p>今晚在滴答清单中搜索了一下关键字「离职」，看到今年 3 月份的时候，就在软件中偷偷写下了离职的时间点——公众号做到 1 万关注就离职，这个目标在今年 6 月初就达成了，离职是拖延到上个月月底才真正执行。    </p>
+]]></content><link href="https://github.com/phh95/gitblog/issues/12" rel="alternate"/><published>2021-09-11T15:53:29+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/11</id><title>离职的时间点</title><updated>2021-12-11T13:38:36.727471+00:00</updated><content type="html"><![CDATA[<p>今晚在滴答清单中搜索了一下关键字「离职」，看到今年 3 月份的时候，就在软件中偷偷写下了离职的时间点——公众号做到 1 万关注就离职，这个目标在今年 6 月初就达成了，离职是拖延到上个月月底才真正执行。    </p>
 <p><img src="https://user-images.githubusercontent.com/29042617/132545750-e75a7930-a291-444e-b0db-6624131c5729.png" alt="" /></p>
-]]></content><link href="https://github.com/phh95/gitblog/issues/11" rel="alternate"/><published>2021-09-08T16:14:21+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/10</id><title>GitHub 个人主页美化</title><updated>2021-12-06T12:37:30.288761+00:00</updated><content type="html"><![CDATA[<p>虽然我不是程序员，但还是会时不时到世界上最大的代码托管网站 <strong>GitHub</strong> 上去逛一逛，看看自己关注的人是不是 Star（收藏）了一些有意思的项目。</p>
+]]></content><link href="https://github.com/phh95/gitblog/issues/11" rel="alternate"/><published>2021-09-08T16:14:21+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/10</id><title>GitHub 个人主页美化</title><updated>2021-12-11T13:38:36.865453+00:00</updated><content type="html"><![CDATA[<p>虽然我不是程序员，但还是会时不时到世界上最大的代码托管网站 <strong>GitHub</strong> 上去逛一逛，看看自己关注的人是不是 Star（收藏）了一些有意思的项目。</p>
 <p>之前写过一篇为自己的 GitHub 主页添加<strong>个性小标签</strong>的方法，效果见下图：</p>
 <p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/2021/05/28/16222128050423.jpg" alt="" /></p>
 <p>添加个性小标签的方法见👉👉：<a href="https://mp.weixin.qq.com/s?__biz=MzAxMjY0NTY5OA==&amp;mid=2649909962&amp;idx=1&amp;sn=cc1b4341f2940a75214ead8c3c2ccf3d&amp;chksm=83a86ee7b4dfe7f10daef1ceef82005ccc4f5d6c6fb97d57ca297039b54d0ddb4e8d389cc18a&amp;scene=21#wechat_redirect">如何美化 GitHub 个人主页？</a>  </p>
@@ -248,7 +258,7 @@
 <p>以上就是本次想和你分享的内容。
 看完文章如果觉得对你有帮助的话，别忘了点击底部的「<strong>点赞/在看</strong>」鼓励一下我，谢谢。</p>
 <p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/2021/05/28/gong-zhong-hao-wei-bu-er-wei-ma-dailogo.png" alt="公众号：效率工具指南" />       </p>
-]]></content><link href="https://github.com/phh95/gitblog/issues/10" rel="alternate"/><published>2021-08-30T23:56:39+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/9</id><title>可以做一辈子的事情：写作&amp;运动</title><updated>2021-12-06T12:37:30.377419+00:00</updated><content type="html"><![CDATA[<p>昨天和一个朋友聊天，她问了我一个问题，你的公众号之前就达到 1 万关注了，为啥没写篇文章或者搞搞抽奖呢？    </p>
+]]></content><link href="https://github.com/phh95/gitblog/issues/10" rel="alternate"/><published>2021-08-30T23:56:39+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/9</id><title>可以做一辈子的事情：写作&amp;运动</title><updated>2021-12-11T13:38:37.017078+00:00</updated><content type="html"><![CDATA[<p>昨天和一个朋友聊天，她问了我一个问题，你的公众号之前就达到 1 万关注了，为啥没写篇文章或者搞搞抽奖呢？    </p>
 <p>我有点敷衍地回复她，不想写，也不想花钱搞抽奖。    </p>
 <p>敷衍的回复，其实是表面原因，但还有一个深层原因是，我觉得写东西好累……</p>
 <p>自从 5 月份同部门的两个同事选择了离职，原先习惯的「工作模式」也变了——周一没了选题会、没人和我讨论某个选题是否合适、少了偷窥同事最近看了什么内容的快乐（说的是下面👇🏻专门用来丢文章的群）……</p>
@@ -286,7 +296,7 @@
 <li>当你觉得自己没有任何选择、无法改变、甚至是觉得看不到希望的时候，现在、立刻、马上去做你认为对的事情，永远都不晚    </li>
 </ul>
 <p>以上。      </p>
-]]></content><link href="https://github.com/phh95/gitblog/issues/9" rel="alternate"/><published>2021-08-30T00:37:29+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/8</id><title>今日记录</title><updated>2021-12-06T12:37:30.460404+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/phh95/gitblog/issues/9" rel="alternate"/><published>2021-08-30T00:37:29+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/8</id><title>今日记录</title><updated>2021-12-11T13:38:37.164888+00:00</updated><content type="html"><![CDATA[<ul>
 <li>
 <p>今天在朋友圈看到 Notion 的布道者 Linmi 说，Notion 开始灰度测试中文版了        </p>
 </li>
@@ -307,19 +317,19 @@
 <p>今天公众号接了一条广告，阅读量不好，但又不想转发到自己的朋友圈，以达到增加阅读量的目的，觉得在朋友圈发这种东西，就是在消耗自己的信用，我讨厌这种模式，讨厌自己变成当初自己讨厌的人       </p>
 </li>
 </ul>
-]]></content><link href="https://github.com/phh95/gitblog/issues/8" rel="alternate"/><published>2021-08-24T15:32:51+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/7</id><title>和宝宝认识 1 年了</title><updated>2021-12-06T12:37:30.534029+00:00</updated><content type="html"><![CDATA[<p>时间好快哇，和宝宝认识一年了，从最开始的线上脱单活动相遇，到今天，整整一年啦    </p>
+]]></content><link href="https://github.com/phh95/gitblog/issues/8" rel="alternate"/><published>2021-08-24T15:32:51+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/7</id><title>和宝宝认识 1 年了</title><updated>2021-12-11T13:38:37.320685+00:00</updated><content type="html"><![CDATA[<p>时间好快哇，和宝宝认识一年了，从最开始的线上脱单活动相遇，到今天，整整一年啦    </p>
 <p><img src="https://user-images.githubusercontent.com/29042617/130467644-a4552113-1657-4de7-967b-7e174de99756.png" alt="49eaf41bd0e2a9708c40d63c55e6a444" />      </p>
 <p>今晚看到家里冰箱上宝宝送给我的冰箱贴，有点脏，用湿抹布擦了一下子     </p>
 <p>这个冰箱贴，还有一个来历：宝宝说这是在她还没有对象的时候买的，打算送给未来的男朋友，现在在我手里了😊     </p>
 <p><img src="https://user-images.githubusercontent.com/29042617/130467754-d2740ae8-3ede-409f-9603-f30302a4830c.jpeg" alt="352e1863612f21cead4c92f500444240" />        </p>
-]]></content><link href="https://github.com/phh95/gitblog/issues/7" rel="alternate"/><published>2021-08-23T14:46:52+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/6</id><title>前端学习</title><updated>2021-12-06T12:37:30.608589+00:00</updated><content type="html"><![CDATA[<p>前段时间在 B 站上看到黑马程序员的 pink 老师录制的前端视频，觉得他讲解得很详细，而且上课也很搞笑，时不时会被他的视频逗笑哈哈哈哈哈哈   </p>
+]]></content><link href="https://github.com/phh95/gitblog/issues/7" rel="alternate"/><published>2021-08-23T14:46:52+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/6</id><title>前端学习</title><updated>2021-12-11T13:38:37.457695+00:00</updated><content type="html"><![CDATA[<p>前段时间在 B 站上看到黑马程序员的 pink 老师录制的前端视频，觉得他讲解得很详细，而且上课也很搞笑，时不时会被他的视频逗笑哈哈哈哈哈哈   </p>
 <p>课程链接地址：https://www.bilibili.com/video/BV14J4114768?p=1<br />
 我用幕布做了视频的笔记《前端开发学习笔记》：https://www.mubucm.com/doc/m5_wubGpzf        </p>
-]]></content><link href="https://github.com/phh95/gitblog/issues/6" rel="alternate"/><published>2021-08-23T07:30:54+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/5</id><title>从美区 Apple ID 下载 GitHub App</title><updated>2021-12-06T12:37:30.687237+00:00</updated><content type="html"><![CDATA[<p>之前就知道 GitHub 上线了移动端的 App，最开始好像上架到了国区的 App Store，今天心血来潮想去下个 App，却没搜到，我记得之前是下载过的。   </p>
+]]></content><link href="https://github.com/phh95/gitblog/issues/6" rel="alternate"/><published>2021-08-23T07:30:54+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/5</id><title>从美区 Apple ID 下载 GitHub App</title><updated>2021-12-11T13:38:37.592547+00:00</updated><content type="html"><![CDATA[<p>之前就知道 GitHub 上线了移动端的 App，最开始好像上架到了国区的 App Store，今天心血来潮想去下个 App，却没搜到，我记得之前是下载过的。   </p>
 <p>直觉告诉只能通过美区 App Store 下载了。   </p>
 <p>你看到的这条短消息，就来自于 GitHub iOS App。   </p>
 <p>值得一提的是，从美区 App Store 下载 App，不需要使用代理工具。</p>
-]]></content><link href="https://github.com/phh95/gitblog/issues/5" rel="alternate"/><published>2021-08-22T10:36:03+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/4</id><title>使用 GitHub Issues 来写博客</title><updated>2021-12-06T12:37:30.764464+00:00</updated><content type="html"><![CDATA[<p>文/彭宏豪，笔名/安哥拉      </p>
+]]></content><link href="https://github.com/phh95/gitblog/issues/5" rel="alternate"/><published>2021-08-22T10:36:03+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/4</id><title>使用 GitHub Issues 来写博客</title><updated>2021-12-11T13:38:37.733225+00:00</updated><content type="html"><![CDATA[<p>文/彭宏豪，笔名/安哥拉      </p>
 <p>Hello 大家好，我是安哥。</p>
 <p>去年用腾讯云搭建了一个<a href="https://www.penghh.fun"><strong>可在国内正常访问的博客</strong></a>，时间一晃而过，租用一年的服务器就快到期了，由于去年我是腾讯云的<strong>新用户</strong>，可以不到 100 块的价格租到为期一年的服务器。</p>
 <p>但从新客户变成老客户，如果想要继续租用服务器的话，并<strong>没有任何续费优惠</strong>，反而是之后每年的价格都变高了，有点像是其他平台「<strong>大数据杀熟</strong>」的感觉。</p>
@@ -403,7 +413,7 @@
 <p><img src="https://upload-images.jianshu.io/upload_images/1885171-0107d00f7fb6bfff?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
 <p>以上就是本次想和你分享的内容。<br />
 看完文章如果觉得对你有帮助的话，别忘了点击底部的「<strong>点赞/在看</strong>」鼓励一下我，谢谢。     </p>
-]]></content><link href="https://github.com/phh95/gitblog/issues/4" rel="alternate"/><category term="blog"/><published>2021-08-20T06:52:20+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/3</id><title>今日见闻</title><updated>2021-12-06T12:37:30.866088+00:00</updated><content type="html"><![CDATA[<h2>工作</h2>
+]]></content><link href="https://github.com/phh95/gitblog/issues/4" rel="alternate"/><category term="blog"/><published>2021-08-20T06:52:20+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/3</id><title>今日见闻</title><updated>2021-12-11T13:38:37.901538+00:00</updated><content type="html"><![CDATA[<h2>工作</h2>
 <p>今天临近下班的时候才开始写新文章，找选题找得心累，感觉找选题的过程，就是从一堆碎片化信息中找出属于自己的「沙子」</p>
 <h2>应用</h2>
 <p>在推特上看到了几个 Mac 上的应用：   </p>
@@ -415,7 +425,7 @@
 <h2>播客 &amp; 音频内容</h2>
 <p>早上起床洗漱的时候，听了播客「枫言枫语」一期关于 1Password 从原生应用切换到 Electron 技术的讨论，这期节目还邀请到了石墨文档的前技术总监李子骅，谈到了许多跨平台的技术，譬如 React Native、Flutter，谈到了我们在用的许多应用，其实也是基于 Electron 开发的，例如 VS Code（Electron App 的代表）、Notion、Slack、Evernote 10、Spotify、Wordpress 等    </p>
 <p>晚上下班路上听完了得到听书《程序员修炼之道》      </p>
-]]></content><link href="https://github.com/phh95/gitblog/issues/3" rel="alternate"/><published>2021-08-18T12:07:39+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/2</id><title>折腾博客 - 吃了没备份数据的亏</title><updated>2021-12-06T12:37:30.937400+00:00</updated><content type="html"><![CDATA[<p>Hello 大家好，我是安哥。</p>
+]]></content><link href="https://github.com/phh95/gitblog/issues/3" rel="alternate"/><published>2021-08-18T12:07:39+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/2</id><title>折腾博客 - 吃了没备份数据的亏</title><updated>2021-12-11T13:38:38.048484+00:00</updated><content type="html"><![CDATA[<p>Hello 大家好，我是安哥。</p>
 <p>之前曾介绍过用一种搭建个人博客的方法：<a href="https://mp.weixin.qq.com/s?__biz=MzAxMjY0NTY5OA==&amp;mid=2649880748&amp;idx=1&amp;sn=fb0ff081986dd788107f7bc867fb1853&amp;chksm=83abfc81b4dc75970614ff85e078d47bb012214f0c4002fa2628651f44e416d0ef31d52dbe6f&amp;token=1045425881&amp;lang=zh_CN#rd">不会代码，如何零成本搭建个人博客？</a>  </p>
 <p>这是一种使用 GitHub Pages 来搭建博客的方法，无需租用服务器和域名，完全免费。文章中用到了一款名为 Gridea 的静态博客客户端，以图形化的界面替代了在终端中配置博客、将本地仓库 Push 到 GitHub 的过程，对没有技术基础的人非常友好。</p>
 <p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/PicGo/image-20210710174625308.png" alt="image-20210710174625308" /></p>
@@ -449,7 +459,7 @@
 <p>来自 PicGo 开发者 - PiEgg 的文章《从开源到应用分发，利用 GitHub 你能做这些事》，扫描识别下方的二维码即可阅读：</p>
 <p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/PicGo/QRcode_A%20%E2%80%94%20a1.png" alt="QRcode_A — a1" />    </p>
 <p>以上，希望有帮助。     </p>
-]]></content><link href="https://github.com/phh95/gitblog/issues/2" rel="alternate"/><published>2021-08-17T07:17:28+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/1</id><title>使用 GitHub Issues 写博客</title><updated>2021-12-06T12:37:31.017605+00:00</updated><content type="html"><![CDATA[<h2>使用 GitHub Issues 写博客</h2>
+]]></content><link href="https://github.com/phh95/gitblog/issues/2" rel="alternate"/><published>2021-08-17T07:17:28+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/1</id><title>使用 GitHub Issues 写博客</title><updated>2021-12-11T13:38:38.193120+00:00</updated><content type="html"><![CDATA[<h2>使用 GitHub Issues 写博客</h2>
 <p>这个仓库是从 <a href="https://github.com/yihong0618/gitblog/issues/177">yihong 老师</a>那里复制过来的     </p>
 <h2>使用 GitHub 遇到的问题</h2>
 <ul>
