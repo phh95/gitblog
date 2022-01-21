@@ -153,13 +153,13 @@ def add_md_firends(repo, md, me):
         md.write(s)
 
 
-def add_md_recent(repo, md, me):
-    new_five_issues = repo.get_issues()[:5]
+def add_md_recent(repo, md, me, limit=5):   
+    count = 0  
     with open(md, "a+", encoding="utf-8") as md:
         # one the issue that only one issue and delete (pyGitHub raise an exception)
         try:
             md.write("## 最近更新\n")
-            for issue in new_five_issues:
+            for issue in repo.get_issues():  
                 if isMe(issue, me):
                     add_issue_info(issue, md)
                     count +=1   
