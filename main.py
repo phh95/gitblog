@@ -162,6 +162,9 @@ def add_md_recent(repo, md, me):
             for issue in new_five_issues:
                 if isMe(issue, me):
                     add_issue_info(issue, md)
+                    count +=1   
+                    if count >= limit:   
+                        break   
         except:
             return
 
