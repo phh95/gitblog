@@ -3,7 +3,7 @@ import argparse
 import os
 import re
 
-import marko      
+import marko.ext.gfm import gfm as marko        
 from github import Github
 from feedgen.feed import FeedGenerator      
 from lxml.etree import CDATA    
