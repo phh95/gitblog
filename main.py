@@ -10,7 +10,7 @@ from lxml.etree import CDATA
 
 MD_HEAD = """## Gitblog
 My personal blog using issues and GitHub Actions    
-[RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)
+[RSS Feed](https://raw.githubusercontent.com/{repo_name}/main/feed.xml)   
 """
 
 BACKUP_DIR = "BACKUP"
@@ -226,7 +226,7 @@ def generate_rss_feed(repo, filename, me):
     )
     generator.link(href=repo.html_url)
     generator.link(
-        href=f"https://raw.githubusercontent.com/{repo.full_name}/master/{filename}",
+        href=f"https://raw.githubusercontent.com/{repo.full_name}/main/{filename}",  
         rel="self",
     )
     for issue in repo.get_issues():
