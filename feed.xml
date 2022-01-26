@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/phh95/gitblog</id><title>RSS feed of phh95's gitblog</title><updated>2022-01-26T13:22:28.143439+00:00</updated><author><name>phh95</name><email>602646761@qq.com</email></author><link href="https://github.com/phh95/gitblog"/><link href="https://raw.githubusercontent.com/phh95/gitblog/main/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/phh95/gitblog/issues/25</id><title>测试</title><updated>2022-01-26T13:22:28.412396+00:00</updated><link href="https://github.com/phh95/gitblog/issues/25" rel="alternate"/><published>2022-01-21T13:34:50+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/22</id><title>2022年的第1个flag</title><updated>2022-01-26T13:22:28.528030+00:00</updated><link href="https://github.com/phh95/gitblog/issues/22" rel="alternate"/><published>2022-01-21T09:07:10+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/21</id><title>喜欢一个产品</title><updated>2022-01-26T13:22:28.642681+00:00</updated><link href="https://github.com/phh95/gitblog/issues/21" rel="alternate"/><published>2022-01-19T15:55:38+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/20</id><title>GitHub搭配快捷指令，自动记录每天的起床时间 </title><updated>2022-01-26T13:22:28.744303+00:00</updated><link href="https://github.com/phh95/gitblog/issues/20" rel="alternate"/><published>2021-12-26T14:10:14+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/19</id><title>电脑卡通头像Snap Camera</title><updated>2022-01-26T13:22:28.843539+00:00</updated><link href="https://github.com/phh95/gitblog/issues/19" rel="alternate"/><published>2021-12-11T13:37:46+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/18</id><title>将网页内容保存到Notion的两个浏览器插件</title><updated>2022-01-26T13:22:28.944390+00:00</updated><content type="html"><![CDATA[<p>文/彭宏豪，本文首发于我的公众号「<a href="https://mp.weixin.qq.com/s/bdtVoL6dh4Vtru4eE1Tfxg">效率工具指南</a>」      </p>
+<p>Hello 各位好。   </p>
+<p>之前一篇文章介绍过一款<a href="https://mp.weixin.qq.com/s?__biz=MzAxMjY0NTY5OA==&amp;mid=2649918192&amp;idx=1&amp;sn=d2e4083599d625b419abf62e97af9dee&amp;chksm=83a88eddb4df07cb914cd71bad11816bb2fe02b393e7e01dbc0a93d32bd823e0691613a84e1a&amp;token=2008602560&amp;lang=zh_CN#rd">剪藏工具 Cubox</a>，可以很方便地保存公众号文章或网页内容，但这款工具有个不足的地方：收藏超过 200 篇内容，就需要开通会员。   </p>
+<p>除了充钱，Cubox 还有一个不太令我满意的地方，它与我正在使用的 Notion 是两个独立的软件，收藏与记录的东西不能放在同个软件，搜索东西比较麻烦。   </p>
+<p>基于此，我找到了 2 个可以将网页内容保存到 Notion 的工具，让收藏的内容也能汇总到 Notion，方便后续的检索。   </p>
+<h2>Notion Pro Clipper</h2>
+<p>Notion Pro Clipper，是一个第三方的 Notion 剪藏插件，比 Notion 官方的剪藏插件好用太多。    </p>
+<p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/2021/12/04/16386117880556.jpg" alt="" /></p>
+<p>插件支持 Chrome 和火狐浏览器，安装插件并授权账号后，点击右上角的插件按钮，弹出的面板如下。</p>
+<p>它支持 4 种剪藏方式：网页链接、整个页面、选中的区域以及截图，其中截图还细分为 3 种——区域截图、可视区域和整个页面。   </p>
+<p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/2021/12/04/16386188357978.jpg" alt="" /></p>
+<p>将内容保存到 Notion 后，最好在 Notion 中预览一下剪藏后的内容，因为可能会出现部分图片丢失的情况。   </p>
+<p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/2021/12/04/16386200557700.jpg" alt="" /></p>
+<p>这里着重说一下，使用插件保存公众号文章，如果想将原文保存到 Notion，需要选择 <strong>Section</strong>。</p>
+<p>如果你选 Full page，它还是会和 Notion 官方的剪藏插件一样，把文章链接而非原文保存到 Notion，后续公众号原文被删除，即便保存了链接也是徒劳。   </p>
+<p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/2021/12/04/16386195621906.jpg" alt="" /></p>
+<p>Notion Pro Clipper 官网：<br />
+<em><a href="https://notionproclipper.com/">https://notionproclipper.com/</a></em></p>
+<h2>简悦</h2>
+<p>除了前面的插件，这里还有另外一个可供选择的插件——<strong>简悦</strong>。  </p>
+<p>安装插件后，回到想剪藏到 Notion 的页面，右击鼠标，选择「简悦 &gt;&gt; 阅读模式」。   </p>
+<p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/2021/12/04/16386203296574.jpg" alt="" /></p>
+<p>进入阅读模式后，点击右下方的「…」按钮，切换到「动作」面板，往下滑动面板，可以看到：</p>
+<p>简悦支持将网页内容保存到多个平台或软件，这里我们选择「保存到 Notion」即可。</p>
+<p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/2021/12/04/16386204414841.jpg" alt="" /></p>
+<p>不更改简悦默认设置的情况下，它会将网页内容保存到 Notion 左侧栏最上方的页面。   </p>
+<p>如果你想更改保存的位置，可以打开简悦的设置页面，切换到「服务」选项卡，找到刚刚授权的 Notion，将默认页面更改为其他 Notion 页面。    </p>
+<p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/2021/12/04/16386208499081.jpg" alt="" /></p>
+<p>简悦官网：<br />
+<em><a href="http://ksria.com/simpread/">http://ksria.com/simpread/</a></em>   </p>
+<p>相比前面介绍的 Notion Pro Clipper，简悦插件的功能更为强大。 </p>
+<p>简悦插件还支持将 Notion 中存放的内容导出为 Markdown 文件，解决 Notion 自带导出功能图片丢失的问题，详细操作可参考之前发布的一篇文章：   </p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzAxMjY0NTY5OA==&amp;mid=2649912854&amp;idx=1&amp;sn=79f16a62d1543a9739b61b92e34effc1&amp;chksm=83a8723bb4dffb2d221e856614b778b102e354c6ca0aa24d691656703ef52f89442ab357517a&amp;token=2008602560&amp;lang=zh_CN#rd">Notion客户端不好看？手把手教你把它变好看。</a>    </p>
+<h2>欢迎关注</h2>
+<p>以上，就是本次想和你分享的内容，希望能够对你有一点帮助。     </p>
+<p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/2021/05/28/gong-zhong-hao-wei-bu-er-wei-ma-dailogo.png" alt="公众号：效率工具指南" />          </p>
+]]></content><link href="https://github.com/phh95/gitblog/issues/18" rel="alternate"/><category term="App"/><category term="Notion"/><published>2021-12-06T12:18:06+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/17</id><title>想起我在GitHub的博客了</title><updated>2022-01-26T13:22:29.069667+00:00</updated><link href="https://github.com/phh95/gitblog/issues/17" rel="alternate"/><published>2021-11-24T08:54:53+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/16</id><title>要换到新的城市了</title><updated>2022-01-26T13:22:29.173421+00:00</updated><content type="html"><![CDATA[<p>上周五去深圳面试，面试通过了，下周就要入职了，即将换到新的城市——深圳。    </p>
+<p>对新城市，需要重新适应。<br />
+对旧城市广州，有点不舍，毕竟包含上大学的时间，来广州有 7 年了。       </p>
+<p>昨天下午在微信听书上随便录了一点东西：       </p>
+<p><img src="https://user-images.githubusercontent.com/29042617/138541503-f4da98b1-c4ee-489b-bf8e-c9f8e2355d40.PNG" alt="album_temp_1634961178" />           </p>
+]]></content><link href="https://github.com/phh95/gitblog/issues/16" rel="alternate"/><category term="life"/><published>2021-10-23T03:53:46+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/15</id><title>下载微博视频的工具Maipo</title><updated>2022-01-26T13:22:29.282605+00:00</updated><content type="html"><![CDATA[<p>很早之前写过一篇文章《<a href="https://mp.weixin.qq.com/s?__biz=MzAxMjY0NTY5OA==&amp;mid=2649880387&amp;idx=1&amp;sn=267ce5c9473d02f57c32b520a2f10a9e&amp;chksm=83abf36eb4dc7a7840ea03c9a389279f8527deb52df4c63862b839bef4564ca63637f6e27e9a&amp;token=2120180942&amp;lang=zh_CN#rd">这10个下载工具，让你成为朋友圈最靓的仔</a>》，介绍了多个下载不同平台视频内容的方法，其中就有一个可用来<strong>下载微博视频</strong>的工具——<strong>iiilab</strong>。  </p>
+<p>原本只要将想下载的微博视频链接🔗粘贴到下方的输入框，就可以很方便地下载视频。   </p>
+<p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/2021/09/24/16324900690259.jpg" alt="" /></p>
+<p>但我前两天想用它来下载视频，意外地发现这个工具已经失效了。  </p>
+<p>失效的原因，我猜测是微博推出了<strong>微博视频号</strong>之后，<strong>故意将视频的原始链接隐藏起来了</strong>，每次点击不同微博动态末尾的视频链接，不管是什么视频，都会跳转到下图的页面。   </p>
+<p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/2021/09/24/16324903668917.jpg" alt="" /></p>
+<p>故意将原始链接隐藏起来，这大概率也是为了阻挡搬运党来搬运微博的视频内容，这对内容平台来说似乎无法厚非。  </p>
+<p>但从我自己的角度出发，考虑到<strong>现在不少内容都会悄无声息地消失</strong>，还有一些内容是只有在微博上首发的，可以找到最高清、没有叠加那么多水印的版本，我有时还是会选择下载下来。  </p>
+<p>因此，这里介绍一个我发现的可用来下载视频的方法，这个方法暂时仅限 Mac 电脑使用：   </p>
+<p>先在电脑上安装第三方微博客户端 <strong>Maipo</strong>，软件免费，可从 Mac App Store 下载。</p>
+<p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/2021/09/24/16324910659160.jpg" alt="" /></p>
+<p>这个第三方客户端是一位就职于微博的工程师 @Naituw 开发的个人项目，因此在这个软件上登录自己的微博账号，应该还是比较有保障的。  </p>
+<p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/2021/09/24/16324913564084.jpg" alt="" /></p>
+<p>登录账号之后，下载视频的方法也非常简单，鼠标移动到想下载的视频上方，长按左键将视频<strong>拖拽</strong>到电脑桌面或文件夹📂中，就可以将视频保存到本地了。   </p>
+<p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/2021/09/24/16324911986304.jpg" alt="" /></p>
+<p>其实除了这个方法，我之前还尝试过用 Mac 上的一款知名下载工具——<strong>Downie</strong>，不过遗憾的是，也是因为 Downie 无法获取到视频的原始链接，导致下载失败。  </p>
+<p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/2021/09/24/16324916993778.jpg" alt="" /></p>
+<p>如果你在手机上使用一些第三方的微博 App，可以自行查看一下，App 内是否提供了将视频保存到本地的功能，因为我没有使用第三方的 App，这里就无法提供相关信息了，见谅。   </p>
+<p>以上，就是本次想和你分享的内容。   </p>
+<p>如果对你也有帮助的话，别忘了点击下方的<strong>点赞、在看</strong>和<strong>分享</strong>按钮，<strong>你的小小支持，是我持续更新的最大动力</strong>，我们下次再见。       </p>
+]]></content><link href="https://github.com/phh95/gitblog/issues/15" rel="alternate"/><category term="download"/><published>2021-09-27T03:00:40+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/14</id><title>近期值得关注的App：将微信聊天记录导出为HTML</title><updated>2022-01-26T13:22:29.402731+00:00</updated><content type="html"><![CDATA[<p>好久没更新这类文章了，今天趁着假期，来更新一篇。</p>
+<h2>夸克浏览器</h2>
+<p>夸克浏览器，这里不说夸克的缺点，只说我刚发现夸克的一个功能——<strong>夸克网盘</strong>。</p>
+<p>一个浏览器也推出了网盘功能，只能说现在的工具类产品变现太困难了。</p>
+<p>一个免费的浏览器，除了加入更多的广告，现在还试图通过网盘的会员费来增加收入。  </p>
+<p>免费用户有 10GB 的存储空间，但如果你想扩容的话，可以开通一个 3TB 的普通会员，价格为 5 元/月，如果你是学生的话，低至 1 元/月，一整年下来年度会员为 12 元，可以说是非常便宜了。  </p>
+<p>但最终决定是否要使用夸克网盘，我觉得不应该只看价格，更应该<strong>注重网盘长期的稳定性</strong>，当收费用户数量太少、不足以分摊网盘服务的投入时，这种网盘服务大概走不了多远，何况还有免费、更大容量的「阿里云盘」等着你。  </p>
+<p><img src="https://user-images.githubusercontent.com/29042617/133951645-d9bd10f2-6a1c-4000-82da-a71a42d50fcc.jpeg" alt="IMG_6611A6B32BD6-1" /></p>
+<h2>Poet.so</h2>
+<p>Poet.so 是一个网页版的图片分享工具，它可以图片的形式分享你发布过的 Twitter 动态，效果如下图所示，样式非常好看。它会保留你的推特头像、ID、动态发布时间、回复数、转发数和点赞数。    </p>
+<p><img src="https://user-images.githubusercontent.com/29042617/133951659-560fe79e-044b-4c2a-9030-7ca4c86fb4b7.jpg" alt="16320964957472" />       </p>
+<p>下图是 Poet.so 的官网，下方的工具栏可更改分享图的背景、深色/浅色模式、是否显示回复数、更改卡片的尺寸。</p>
+<p><img src="https://user-images.githubusercontent.com/29042617/133951696-7f88167e-bd22-48b7-a189-39eac278dd66.jpg" alt="16320971226964" />      </p>
+<p>Poet.so 官网：<br />
+<em><a href="https://poet.so/">https://poet.so/</a></em></p>
+<p>这个产品是 Twitter 上的网友 @Larry 推荐的，他既是一名开发者，也是一名设计师，除了推荐自己做的产品，还会经常分享许多设计相关的资源，感兴趣的可以去推特或者即刻上关注他。</p>
+<p><img src="https://user-images.githubusercontent.com/29042617/133951708-bc2a4701-806b-4e14-9a91-6ec8aef18250.jpg" alt="16320975802878" />     </p>
+<p>稍微提一嘴，现在很多社交产品的内容都没法看，目前高质量的社交内容平台，我觉得只剩下<strong>即刻</strong>和 <strong>Twitter</strong> 了，Telegram 可能也有，但太花时间了，一不小心就沉迷于看别人的聊天记录了。     </p>
+<h2>魔法分享</h2>
+<p>如果你使用的是安卓设备，想实现类似上面<strong>以图片的形式分享内容</strong>的目的，可以考虑使用下面这款 App——<strong>魔法分享</strong>。</p>
+<p>在 Google Play 中，这款应用的介绍是这样的：  </p>
+<blockquote>
+<p>在我们每天都使用的 App 和网站中有很多精彩的内容，它们大部分都承载在 Web 中。很多时候，我们如果只是单单分享一个 🔗Web 链接，还需要花很长时间向别人说明我们在分享什么内容。于是我制作了这个 App，让你能轻松地从 Web Link 中获取标题、描述和图片，以分享给朋友。</p>
+</blockquote>
+<p><img src="https://user-images.githubusercontent.com/29042617/133951722-335f5c29-1fd2-4c51-9aff-069a69c613aa.jpg" alt="16320978314213" />      </p>
+<p>同样是以一条 Twiiter 动态为例，通过魔法分享 App 生成的分享图如下，除了附带动态的原始链接，还提供了二维码，方便你打开内容的原始链接，可以说很有国内特色了。    </p>
+<p><img src="https://user-images.githubusercontent.com/29042617/133951730-cf9927aa-9c86-46e7-a1ba-bed18053a69b.jpg" alt="16320976708806" />        </p>
+<p>魔法分享 Google Play 下载链接：<br />
+<em><a href="https://play.google.com/store/apps/details?id=net.atlassc.shinchven.sharemoments">https://play.google.com/store/apps/details?id=net.atlassc.shinchven.sharemoments</a></em>     </p>
+<p>无法打开 Google Play 的朋友，可以通过下面这篇文章，查看另外的下载方法：  </p>
+<p><a href="https://mp.weixin.qq.com/s/SfO62_GI6ETRI2vHisbfqw">手机电脑软件去哪下？看这篇文章就够了！</a>          </p>
+<h2>免费领取「爱企查」年度会员</h2>
+<p>相信很多人都听过或者用过「<strong>企查查</strong>」，一款用来了解<strong>不知名公司</strong>基础信息的工具，而<strong>爱企查</strong>也是百度推出的类似工具。 </p>
+<p><img src="https://user-images.githubusercontent.com/29042617/133951752-613d1788-cc9d-48eb-9ea3-e223af5c484e.jpg" alt="16320990784293" />      </p>
+<p>在使用这类工具时，我们可以看到企业的基础信息，比如创始人、投资关系，但对于一些我们更为关注的重要信息，譬如<strong>企业的风险信息</strong>，印象中企查查直是需要付费才能查看，而爱企查则是限制了每天查看的企业数量。  </p>
+<p><img src="https://user-images.githubusercontent.com/29042617/133951760-bb8eea38-ac9a-4343-b726-34ad298410c4.jpg" alt="16320995438163" />       </p>
+<p>企查查的会员费也不便宜，为了一个不是很高频的需求而去开通会员，实在是没这个必要。</p>
+<p>前几天在一个群里看到一个群友分享了「<strong>免费领取爱企查会员</strong>」的链接🔗，<strong>最多可免费领取 3 年会员</strong>。有需要的朋友，可以点击下方的卡片，在公众号「效率工具指南」后台回复「<strong>爱企查</strong>」三个字，免费领取会员。   </p>
+<h2>将微信聊天记录导出为 HTML 格式</h2>
+<p>前几天还在吐槽微信占用手机太多内存了，昨天就在 Twitter 上看到一个将聊天记录导出为网页 HTML 格式的方法：    </p>
+<p><img src="https://user-images.githubusercontent.com/29042617/133951802-c9523bbe-ba6b-402d-9764-93b4e9065019.jpg" alt="16321004977050" />       </p>
+<p>在项目的 GitHub README 文档中，作者说明了导出的流程：</p>
+<ul>
+<li>先将 iPhone 的全部数据备份到 Mac 上。如果你使用的是 Windows 系统，这一步可通过 iTunes Windows 版本完成。</li>
+<li>使用一款名为 iExplore 的软件，将备份数据中的 Documents 导出到本地系统。</li>
+</ul>
+<p>完成上面两步之后，就需要用到代码啦：</p>
+<ul>
+<li>克隆 GitHub 项目代码，或者将 GitHub 项目的所有代码下载到本地，下载后记得解压缩。     </li>
+</ul>
+<p><img src="https://user-images.githubusercontent.com/29042617/133951817-159e44f5-7690-4bc4-9ee5-24c57be379ec.jpg" alt="16321009784761" />         </p>
+<ul>
+<li>编码音频解码器（这一步应该是为了后续导出微信聊天记录中的语音）。打开终端，输入 <code>cd silk/silk &amp;&amp; make &amp;&amp; cd ../../</code> 进入代码文件夹。</li>
+<li>在终端中输入 <code>npm install</code> 安装相关的文件。运行这一步之前，请先确保你的电脑安装了 <code>Node.js</code>，安装了 <code>Node.js</code> 之后，才可以使用 npm 命令。   </li>
+<li>最后一步，在终端中输入 <code>node index.js path_to/Documents/{uid} output_dir</code>，这里的 <code>path_to/Documents</code> 要更换为第 2 步导出的 Documents 文件所在的路径，uid 则是 <code>g3c3814a370neh4dr69uf9f889f6ea7a</code>。</li>
+</ul>
+<p><img src="https://user-images.githubusercontent.com/29042617/133952537-32c38251-8bb9-4dc9-8167-3c7538f7242f.jpg" alt="16321006911184" />    </p>
+<p>按照这个操作导出的 HTML 格式的聊天记录，在浏览器中打开的预览图如下：</p>
+<p><img src="https://user-images.githubusercontent.com/29042617/133952553-23727969-1381-4c0a-aa4f-b2e6f87a1571.jpg" alt="16321004562537" />       </p>
+<p>目前支持导出文本、语音、图片、视频和系统消息，后续可能会支持导出 Emoji 和链接。   </p>
+<p><img src="https://user-images.githubusercontent.com/29042617/133952559-7a17198b-efd0-4c04-9ff0-8ec79c0d0442.png" alt="image" />     </p>
+<p>wechat-export GitHub 项目地址：<br />
+<em><a href="https://github.com/luin/wechat-export">https://github.com/luin/wechat-export</a></em></p>
+<p>说实话，这个将聊天记录导出为 HTML 的方法，操作起来还是非常麻烦的，不适合大多数人。</p>
+<p>我还是期待传说中的「微信付费云存储」早日上线吧。。。不想折腾了，或者是换新手机更快。。。</p>
+<p>以上，希望有帮助。   </p>
+]]></content><link href="https://github.com/phh95/gitblog/issues/14" rel="alternate"/><category term="App"/><published>2021-09-20T02:44:12+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/13</id><title>失业后二三事：代缴社保</title><updated>2022-01-26T13:22:29.528272+00:00</updated><link href="https://github.com/phh95/gitblog/issues/13" rel="alternate"/><published>2021-09-15T10:25:48+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/12</id><title>死亡不是人生的终点，遗忘才是。     </title><updated>2022-01-26T13:22:29.640965+00:00</updated><link href="https://github.com/phh95/gitblog/issues/12" rel="alternate"/><published>2021-09-11T15:53:29+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/11</id><title>离职的时间点</title><updated>2022-01-26T13:22:29.745317+00:00</updated><link href="https://github.com/phh95/gitblog/issues/11" rel="alternate"/><published>2021-09-08T16:14:21+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/10</id><title>GitHub 个人主页美化</title><updated>2022-01-26T13:22:29.860631+00:00</updated><link href="https://github.com/phh95/gitblog/issues/10" rel="alternate"/><published>2021-08-30T23:56:39+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/9</id><title>可以做一辈子的事情：写作&amp;运动</title><updated>2022-01-26T13:22:29.977606+00:00</updated><link href="https://github.com/phh95/gitblog/issues/9" rel="alternate"/><published>2021-08-30T00:37:29+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/8</id><title>今日记录</title><updated>2022-01-26T13:22:30.077357+00:00</updated><link href="https://github.com/phh95/gitblog/issues/8" rel="alternate"/><published>2021-08-24T15:32:51+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/7</id><title>和宝宝认识 1 年了</title><updated>2022-01-26T13:22:30.193459+00:00</updated><link href="https://github.com/phh95/gitblog/issues/7" rel="alternate"/><published>2021-08-23T14:46:52+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/6</id><title>前端学习</title><updated>2022-01-26T13:22:30.296593+00:00</updated><link href="https://github.com/phh95/gitblog/issues/6" rel="alternate"/><published>2021-08-23T07:30:54+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/5</id><title>从美区 Apple ID 下载 GitHub App</title><updated>2022-01-26T13:22:30.405102+00:00</updated><link href="https://github.com/phh95/gitblog/issues/5" rel="alternate"/><published>2021-08-22T10:36:03+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/4</id><title>使用 GitHub Issues 来写博客</title><updated>2022-01-26T13:22:30.511172+00:00</updated><content type="html"><![CDATA[<p>文/彭宏豪，笔名/安哥拉      </p>
+<p>Hello 大家好，我是安哥。</p>
+<p>去年用腾讯云搭建了一个<a href="https://www.penghh.fun"><strong>可在国内正常访问的博客</strong></a>，时间一晃而过，租用一年的服务器就快到期了，由于去年我是腾讯云的<strong>新用户</strong>，可以不到 100 块的价格租到为期一年的服务器。</p>
+<p>但从新客户变成老客户，如果想要继续租用服务器的话，并<strong>没有任何续费优惠</strong>，反而是之后每年的价格都变高了，有点像是其他平台「<strong>大数据杀熟</strong>」的感觉。</p>
+<p>以我现在租用的一台服务器为例，续费一年的价格是 692 元，一次性续费至少 3 年，才有所谓的 5 折折扣，总价为 1251 元，均摊下来一年也要 417 元。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-1accc562a008e3f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /></p>
+<p>想着每年没写多少篇博客，也没多少人看，在这上面也赚不到钱，每年却要支出一笔费用，这让我有点犹豫要不要续费下去。</p>
+<p>基于此，我又重新寻找<strong>简单、不需要过多折腾、最好还能是免费</strong>的建立个人博客的方法，正好这两天看到一个<strong>基于 GitHub 的 Issues 功能来写博客</strong>的开源项目。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-f4920c6ee66f3be5?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
+<p><strong>gitblog 项目地址：</strong>
+<em><a href="https://github.com/yihong0618/gitblog">https://github.com/yihong0618/gitblog</a></em></p>
+<p>对比我目前正在用的部署在腾讯云的 Hexo 博客，使用 GitHub 自带的 Issues 来写博客，我目前能感知到的<strong>优点</strong>有：</p>
+<ul>
+<li>完全免费，不需要租用域名和服务器</li>
+<li>不需要过多折腾，对不懂技术的人来说非常友好</li>
+<li>Issues 自带评论功能，不需要后期为博客安装评论插件</li>
+<li>GitHub 有网页版和手机 App，只要有网，我们可以随时随地发布博客，而不仅仅局限于电脑</li>
+<li>发布到 GitHub 的内容，在 Google 的搜索结果中有非常高的权重，如果你写的内容比较优质，或者是许多人都会有的需求，也能有非常不错的曝光</li>
+</ul>
+<p>除了这 4 个优点，这个开源博客项目的作者 @yihong 还提到了另外一些<strong>使用 GitHub 仓库来写博客的优点</strong>：</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-94d22d83bf32d0d6?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
+<p>看完使用这个方法来搭建博客的好处，接下来就简单介绍一下搭建的整个过程：</p>
+<h2><strong>01. 下载整个项目文件</strong></h2>
+<p>点击项目首页的绿色按钮 Code，在弹出的面板中，选择 <strong>Download ZIP</strong>，以压缩包的形式下载整个项目文件。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-3fd3f72112e386ac?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
+<p>下载解压得到的文件，对解压得到的文件进行修改。BACKUP 文件夹存放的是项目作者之前发布的博客的备份文件，你可以将这个文件夹删除。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-6cb090f2c2b8b094?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
+<p>打开 <code>.github</code> 文件夹，里面有一个 workflows 子文件夹，继续打开，可以看到一个名为 <strong><code>generate_readme.yml</code></strong> 的文件，在<strong>记事本</strong>或<strong>代码编辑器</strong>中打开这个文件。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-cdbd781b20c0d415?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
+<p>这里我使用代码编辑器 <strong>VS Code</strong> 打开这个文件，需要修改两个地方，一个是 <strong>branches</strong> 的值，将其由原来的 master 更改为 <strong>main</strong>。</p>
+<p>另一个是分别将下面的 <strong>GITHUB_NAME</strong> 和 <strong>GITHUB_EMAIL</strong> 替换成自己的 <strong>GitHub 账号的 ID</strong> 和<strong>邮箱</strong>。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-f7a83f82471e1ce9?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
+<p>还没有 GitHub 账号的朋友，请出门右转先注册一个 GitHub 账号：</p>
+<p><em><a href="https://github.com/signup">https://github.com/signup</a></em></p>
+<p>修改好上面两处地方之后，记得在关闭文件之前保存一下文件。</p>
+<h2><strong>02. 在 GitHub 创建一个新的仓库</strong></h2>
+<p>回到浏览器中的 GitHub 个人主页，点击右上角的加号，选择 <strong>New repository</strong> 创建一个新的仓库。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-cbad46e2ebef713d?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
+<p>为你的新仓库起一个名字，名字可以是英文，也可以是英文与数字的组成，暂不支持中文仓库名。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-c95af7a46833e68b?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
+<p>接着勾选下方的 <strong>Choose a license</strong>，从内置的许可证中选择一个<strong>协议</strong>，因为我们使用的是别人写好的代码，因此这里最好使用与原来相同的 <strong>MIT 开源协议</strong>。</p>
+<p>最后点击底部的绿色按钮 <strong>Create repository</strong>，完成新仓库的创建。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-8e6db05ae362b23e?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
+<p>在新仓库中，点击右上角的 <strong>Add file</strong>，选择 <strong>Upload files</strong>，将之前下载到本地的文件上传到仓库中。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-209aeef18f9b6672?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
+<p>上传本地文件，和平常上传文件到其他网站是一样的，这里需要上传的文件有 <strong><code>main.py</code></strong> 和 <strong><code>requirements.txt</code></strong>。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-2c91d183aa30ddec?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
+<p>本地的文件夹 <code>.github</code> 中有一个名为 <strong><code>generate_readme.yml</code></strong> 的文件，由于 GitHub 网页版不支持直接上传文件夹，我们要使用另外一个选项 <strong>Create new file</strong>。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-431080c1d0a77661?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
+<p>在左上角的文件名输入 <strong><code>.github/</code></strong> 才能创建一个文件夹路径，按照本地的文件夹路径，后面继续输入 <strong><code>workflows/generate_readme.yml</code></strong>。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-268111f8b9f87cd5?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
+<p>最终得到的<strong>文件路径</strong>和<strong>文件名</strong>如下图，接着将本地的 <code>generate_readme.yml</code> 文件的内容复制到下方的编辑窗口中。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-50bd09458e42d7c9?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
+<p>复制过来之后，滑动到页面底部的绿色按钮 <strong>Commit new file</strong>，点击确认创建文件。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-2efc352e8e081f08?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
+<h2><strong>03. 获取 Token 并配置参数</strong></h2>
+<p>为了让我们前面创建的 <code>generate_readme.yml</code> 可以顺利运行，我们还需要获取一个 <strong>Token</strong> 参数，并将其配置到仓库的 <strong>Secrets</strong> 中。</p>
+<p>在浏览器打开网页 <a href="https://github.com/settings/tokens">https://github.com/settings/tokens</a> ，点击右上角的 <strong>Generate new token</strong>。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-03bc0b7bd5827e5f?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
+<p>Note 这里需要我们为即将生成的 Token <strong>添加一个备注信息</strong>，你可以随意填，也可以填入一点比较有意义的信息，譬如下图的 blog_token。</p>
+<p>接着下方还要<strong>开启权限</strong>，为了避免后面程序运行时出错，这里建议<strong>勾选所有复选框</strong>，最后点击底部的绿色按钮 <strong>Generate token</strong>，生成一个 Token。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-666a32e9126a77d4?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
+<p>生成的 Token 是一长串数字和字母的组合，我们不需要记住它，只需要点击 Token 右侧的<strong>复制</strong>按钮，将其复制到剪贴板。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-1966b08ff4cbaa03?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
+<p>接着回到我们前面创建的博客仓库，点击 <strong>Settings</strong> &gt;&gt; <strong>Secrets</strong> &gt;&gt; <strong>New repository secret</strong>。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-63a1e9e8775ef279?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
+<p>这里需要填入两个值，<strong>Name</strong> 填入 <strong>G_T</strong>，这个值是固定的，它与之前的 <strong><code>generate_readme.yml</code></strong> 文件中定义的<strong>变量名</strong>有关，变量名没有改变的话，值就是这一个。</p>
+<p>下方的 <strong>Value</strong> 就填入刚刚我们复制到剪贴板的 Token 值，最后点击下方的 <strong>Add secret</strong> 即可。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-d9709d9c12b2711a?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
+<h2><strong>04. 使用 Issues 发布第一篇博客</strong></h2>
+<p>完成上面的操作，就可以说是完成了写博客之前的所有配置，点击仓库顶部的 <strong>Issues</strong> 选项卡，接着点击右侧的 <strong>New issue</strong>。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-e257b22f449e005d?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
+<p>在打开的新页面中，可以看两个文本框，一个是用来<strong>添加博客文章标题的 Title 区域</strong>，一个<strong>用来输入或粘贴内容的编辑区</strong>，Issues 这种设计也很符合我们平时写文章的习惯。</p>
+<p>编辑好之后，点击右下角的 <strong>Submit new issue</strong>，就完成了文章的发布。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-b13833aef34fd384?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
+<p>对于已发布的文章，如果想在发布后进行修改，可以点击右侧的 … 按钮，选择 <strong>Edit</strong> 切换到编辑模式，<strong>编辑没有次数和字符数的限制</strong>，不像已经诞生 9 年的公众号，每篇文章最多只能修改 20 个字。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-4d184db7d9c9e404?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
+<p>由于项目的作者用到了 GitHub 的另外一个功能——<strong>GitHub Actions</strong>，这是一个自动化操作，当我们创建或修改 Issues 中的文章时，它都会运行一次写好的程序，在仓库的首页生成或<strong>更新 README 文件</strong>。</p>
+<p>这里就体现为，它会在下方的「<strong>最近更新</strong>」自动生成我们最近更新的文章列表，方便访问我们博客仓库的人第一时间看到。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-5b0cb2f337474edc?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
+<p>因为我这个是今天刚建的博客，看起来还不够壮观，这里放一下项目的原作者 @yihong 创建已久的博客，这或许才能真正让人感受到记录📝的意义：</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1885171-0107d00f7fb6bfff?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
+<p>以上就是本次想和你分享的内容。<br />
+看完文章如果觉得对你有帮助的话，别忘了点击底部的「<strong>点赞/在看</strong>」鼓励一下我，谢谢。     </p>
+]]></content><link href="https://github.com/phh95/gitblog/issues/4" rel="alternate"/><category term="blog"/><published>2021-08-20T06:52:20+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/3</id><title>今日见闻</title><updated>2022-01-26T13:22:30.650527+00:00</updated><link href="https://github.com/phh95/gitblog/issues/3" rel="alternate"/><published>2021-08-18T12:07:39+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/2</id><title>折腾博客 - 吃了没备份数据的亏</title><updated>2022-01-26T13:22:30.756612+00:00</updated><link href="https://github.com/phh95/gitblog/issues/2" rel="alternate"/><published>2021-08-17T07:17:28+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/1</id><title>使用 GitHub Issues 写博客</title><updated>2022-01-26T13:22:30.866993+00:00</updated><link href="https://github.com/phh95/gitblog/issues/1" rel="alternate"/><published>2021-08-17T05:11:35+00:00</published></entry></feed>
