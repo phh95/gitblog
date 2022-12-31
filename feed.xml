@@ -1,5 +1,85 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/phh95/gitblog</id><title>RSS feed of phh95's gitblog</title><updated>2022-05-07T06:48:17.510106+00:00</updated><author><name>phh95</name><email>602646761@qq.com</email></author><link href="https://github.com/phh95/gitblog"/><link href="https://raw.githubusercontent.com/phh95/gitblog/main/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/phh95/gitblog/issues/27</id><title>重新测试一下博客的自动化</title><updated>2022-05-07T06:48:17.917380+00:00</updated><link href="https://github.com/phh95/gitblog/issues/27" rel="alternate"/><published>2022-04-23T13:55:52+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/26</id><title>何去何从</title><updated>2022-05-07T06:48:18.068851+00:00</updated><link href="https://github.com/phh95/gitblog/issues/26" rel="alternate"/><published>2022-01-26T13:27:35+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/25</id><title>测试</title><updated>2022-05-07T06:48:18.229733+00:00</updated><link href="https://github.com/phh95/gitblog/issues/25" rel="alternate"/><published>2022-01-21T13:34:50+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/22</id><title>2022年的第1个flag</title><updated>2022-05-07T06:48:18.397702+00:00</updated><link href="https://github.com/phh95/gitblog/issues/22" rel="alternate"/><published>2022-01-21T09:07:10+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/21</id><title>喜欢一个产品</title><updated>2022-05-07T06:48:18.550108+00:00</updated><link href="https://github.com/phh95/gitblog/issues/21" rel="alternate"/><published>2022-01-19T15:55:38+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/20</id><title>GitHub搭配快捷指令，自动记录每天的起床时间 </title><updated>2022-05-07T06:48:18.710268+00:00</updated><link href="https://github.com/phh95/gitblog/issues/20" rel="alternate"/><published>2021-12-26T14:10:14+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/19</id><title>电脑卡通头像Snap Camera</title><updated>2022-05-07T06:48:18.860874+00:00</updated><link href="https://github.com/phh95/gitblog/issues/19" rel="alternate"/><published>2021-12-11T13:37:46+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/18</id><title>将网页内容保存到Notion的两个浏览器插件</title><updated>2022-05-07T06:48:19.025076+00:00</updated><content type="html"><![CDATA[<p>文/彭宏豪，本文首发于我的公众号「<a href="https://mp.weixin.qq.com/s/bdtVoL6dh4Vtru4eE1Tfxg">效率工具指南</a>」      </p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/phh95/gitblog</id><title>RSS feed of phh95's gitblog</title><updated>2022-12-31T11:29:49.827246+00:00</updated><author><name>phh95</name><email>602646761@qq.com</email></author><link href="https://github.com/phh95/gitblog"/><link href="https://raw.githubusercontent.com/phh95/gitblog/main/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/phh95/gitblog/issues/29</id><title>我的 2022 年个人总结｜失落的一年       </title><updated>2022-12-31T11:29:50.114534+00:00</updated><content type="html"><![CDATA[<p>本文首发于微信公众号「<a href="https://mp.weixin.qq.com/s/hzSffOuLzmJza2RQfg8i6w">效率工具指南</a>」<br />
+文/彭宏豪    </p>
+<p>Hello 各位好，我是小豪。   </p>
+<p>写这篇文章之前，我内心纠结、犹豫了一会，感觉今年没啥好写的，在想要不要写呢？   </p>
+<p>最后还是决定写啦，才有了你现在看到的这篇文章。  </p>
+<p>我的理解，写总结并不是为了找各种数据来证明自己过得不错，而纯粹只是想在年底做个记录📝，方便以后回过头来稍微有点东西可查，仅此而已。   </p>
+<p>如果你也觉得这个想法不错，不妨现在就拿起笔，或者操起键盘⌨️，开始回顾一下你的 2022 吧。       </p>
+<h2>糟糕的 1 月</h2>
+<p>今年开年不利，糟糕的 1 月，我是在不踏实、无助、无奈、彷徨中度过的。   </p>
+<p>工作做得不踏实，没有有效的产出，很无力，也很讨厌每天早上的「站会」，与其说是站会，不如说是鞭尸大会，最终我还是失去了来深圳的第一份工作……             </p>
+<p>失业后最开始不敢和家里人说，诚实说出来之后，心里一块石头落下了，但又有了新的烦恼：   </p>
+<ul>
+<li>回家要以什么心态面对家里人呢？    </li>
+<li>回家这个年还能好好过吗？      </li>
+<li>回家和别人谈到工作的事情，要不要说实话呢？   </li>
+<li>家里人又会提起「回老家」的事情           </li>
+</ul>
+<p>虽然工作 3 年多了，但我还没怎么给过家里人钱，逢年过节又遇上失业，这个年过得真不是滋味。      </p>
+<h2>封控的 2-3 月</h2>
+<p>和大家不同，我感觉我今年只有 11 个月，少了的那一个月，因为住的城中村有好多确诊的，整个村子被封，被迫居家，有点像是在坐牢。    </p>
+<p>封控时间：2 月 22 日 - 3 月 30 日（在 3 月的最后 1 天终于解封了）           </p>
+<p>具体可见我写过的一篇文章：<a href="https://mp.weixin.qq.com/s?__biz=MzAxMjY0NTY5OA==&amp;mid=2649919719&amp;idx=1&amp;sn=279c40bc3bd3f9683d0b07f749b4a599&amp;chksm=83a894cab4df1ddc5c82cce7ad4037aa103615eb3ce5f40e4455dd4f7c612a5934acbdc1aaf8&amp;token=838469253&amp;lang=zh_CN#rd">解封以后，被偷走的一个月</a>       </p>
+<p>封控之前，还有一个小插曲，在事后看来，我也是<strong>足够幸运</strong>，那就是我在 2 月 17 日（周四）入职了现在的公司，上了 3 天班之后，就开始被封控在家，开启了长达 20 多天的远程办公。    </p>
+<p>事后想起来，如果我当初还在纠结要不要再看看别的机会，没有选择入职现在的公司，被封控的那一个月，我会不会过得更难受，会不会在煎熬里度过呢？会不会一整年下来过得比现在还差呢？            </p>
+<p>我不知道，过去的事情也无法假设，我只能说，这是今年最幸运的一件事。     </p>
+<h2>根管治疗</h2>
+<p>过年回家的时候，除了发愁年后要找什么工作，还有一件让我吃饭都不得安宁的事，那就是牙疼——喝水牙疼、吃肉牙疼，原本桌上有很多好吃的东西，因为牙疼都索然无味了，那种感受，牙疼过的朋友都懂。    </p>
+<p>刚从老家回到深圳的那天下午，牙疼又开始发作了，不过这次是疼到脑壳都痛，脑袋像是要炸开一样，最后吃了一颗布洛芬才有所缓解。     </p>
+<p>真应了那句，「牙疼不是病，疼起来要命」。    </p>
+<p>后来去了医院，医生说疼的牙都烂到牙根了，得做根管治疗，每周末要去一次医院，中间因为封控，导致整个疗程特别漫长。  </p>
+<p>我特地在滴答清单中记录了根管治疗开始与结束的时间，历经 86 天，我提前带上了假牙（冠）。     </p>
+<p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/2022/12/31/16724581384371.jpg" alt="" /></p>
+<p>整个疗程下来，包括最后戴上的牙冠，花了大几千块钱吧……肉疼，治疗牙齿真的是花钱如流水，一口好牙真的是一座金矿。  </p>
+<p>劝各位还有一口好牙的时候，注意多保养牙齿，比如：  </p>
+<ul>
+<li>每年至少洗一次牙，去除牙结石（牙医推荐每半年洗一次牙）            </li>
+<li>除了刷牙，最好还要养成使用「牙线」的习惯，我现在都不用水牙线了，而是用普通的牙线，<strong>买的时候注意买那种细牙线</strong>。别看牙齿已经刷干净了，用牙线很多时候还会掏出东西的，相信我……     </li>
+</ul>
+<h2>工作上更忙的一年</h2>
+<p>来了深圳一年多之后，越发体会到这座城市的一些不同，比如，身边或者网上的人，没说几句话，好像都离不开「搞钱」这两个字，搞钱即正义，以搞钱为荣。  </p>
+<p>在简单对比了广州和深圳两座城市每月的支出，至少是 1000 的差额之后，对「努力搞钱、保住份工」这句话开始有了体会。       </p>
+<p>从 2 月份换了工作之后，今年整体上比毕业以来的过去 3 年都要忙，晚上 10 点下班是常态，这种节奏恍惚之间又给了我一种回到<strong>高三下夜自习</strong>的错觉，那时候也是在教室待到 10 点才回宿舍。   </p>
+<p>工作日工作时间比较长，但比较欣慰的地方在于，周末至少是双休的，多少能消除工作一周下来的疲惫。   </p>
+<p>工作上更加忙碌，留给自己学习、写东西，或者做其他事情的时间就变少了，这方面有客观因素，当然更多的还是自己的自律（懒癌发作）、管理能力不足导致的：  </p>
+<p>稍微有一点空闲时间，要么想玩游戏，要么想看视频放松，没有足够的自制力克服它们的诱惑……    </p>
+<h2>运动</h2>
+<p>上周阳了之后，在家休息的时候，点开了 iPhone 上好久没打开的「健康」App，最初是想瞟一眼自己的心率数据，发烧的时候心率不是会加快嘛？  </p>
+<p>同时还点开了去年我非常关注的一个数据——<strong>最大摄氧量</strong>，从这一整年的数据趋势可以看出，年初的最大摄氧量已是巅峰，往后就是走下坡路了。    </p>
+<p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/2022/12/31/9fa0118aff49460d95e347e483e0fbee.png" alt="9FA0118A-FF49-460D-95E3-47E483E0FBEE" /></p>
+<p>关于「有氧适能」的介绍，可以查看一段来自 Apple 官网的内容：  </p>
+<blockquote>
+<p>有氧适能测量的是你的最大摄氧量，也就是你的身体在锻炼时能够消耗的最大氧气量。你的有氧适能水平是你整体身体健康情况的重要指标，也是你长期健康情况的预测指标。Apple Watch 可通过测量你在户外步行、跑步或徒步旅行期间的心脏工作强度来提供有氧适能估算值。   </p>
+<p>如果你使用“体能训练”App 开始进行户外步行、跑步或徒步旅行，Apple Watch 也可以估算你的最大摄氧量。Apple Watch 支持 14-65 <strong>毫升/千克/分钟</strong>的最大摄氧量范围，这个范围经验证适用于年满 20 周岁的用户。</p>
+</blockquote>
+<p>最大摄氧量指标变低，也和今年运动次数变少有关，之前做的一个<a href="https://mp.weixin.qq.com/s?__biz=MzAxMjY0NTY5OA==&amp;mid=2649917925&amp;idx=1&amp;sn=08dc018b0d3e65be81c1b5bc8572ce18&amp;chksm=83a88dc8b4df04dee5b2716977fc1dba3b56a4a6952a164198d6c448335a8b4c288568b4a23c&amp;token=838469253&amp;lang=zh_CN#rd">记录跑步数据的网站</a>，显示我今年只跑了 70 次（严格来说应该只有 69 次），对比年初计划的 200 次运动打卡，远远不及预期……             </p>
+<p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/2022/12/31/16724638357045.jpg" alt="" /></p>
+<p>看了今年惨淡的运动次数、逐渐变差的身体，明年立个小 flag：多多运动，学会游泳🏊     </p>
+<h2>今年最大的一笔支出</h2>
+<p>今年 8 月份的时候，趁着教育优惠、还有一个同学还在上大学，找他帮了一下忙，从苹果官网买了一台 2021 款的 Macbook Pro。    </p>
+<p>至此，我算是勉强集齐了苹果家的「旧三件」和「新三件」——</p>
+<ul>
+<li>苹果旧三件套：iPhone、iPad 和 Macbook</li>
+<li>苹果新三件套：iPhone、AirPods 和 Apple Watch   </li>
+</ul>
+<p>买 Macbook Pro，主要有 2 个考虑，一个是想体验一下被很多人称赞过的 M1 系列芯片，另外一个则是考虑到有时想带电脑出门，不想因为 iMac 只能在家使用而被迫呆在家里。  </p>
+<p>我对苹果 M1 系列芯片最大的预期是，能在电脑上使用移动端的 App，减少打开手机的次数，但就我使用过的几个 App 来说，<strong>体验其实不如预期，反而有点失望</strong>：   </p>
+<ul>
+<li>微信读书 App 无法用鼠标划线，还不如使用网页版       </li>
+<li>知识星球 App 无法调整字号大小，还不如网页版的体验   </li>
+<li>即刻 App 就是个移动版，跟 iPad 上的版本一模一样，没有针对 Mac 和 iPad 这两种设备进行适配，真的拉胯   </li>
+</ul>
+<p>不知道同样用着 M1 系列芯片 Macbook 的朋友，你们的感觉如何呢？欢迎在底部的评论区留言。      </p>
+<h2>年龄焦虑/同龄人焦虑</h2>
+<p>最后，还是要写一下以前没怎么提起的<strong>年龄焦虑</strong>或者说<strong>同龄人焦虑</strong>。   </p>
+<p>这东西说起来也怪，你不去关注它的话，它好像并不存在，但当你有时在朋友圈看到，某某人结婚了，某某人生小孩了，某某人的孩子会打酱油了，这东西又突然跑出来了。     </p>
+<p>有时会在想，咋别人结婚、生孩子看起来那么简单，而我是在入场的时候选错了模式吗？咋都这么 hard？       </p>
+<p>原本 TA 们和我是同龄人，但现在我们好像完全是两个不同世界的人，关注点也全然不同，没有多少共同话题，就连维系关系慢慢也变得没什么必要。   </p>
+<p>有时我也会胡思乱想，如果有一天我结婚了，能请到多少个人来呢？不会凑不齐一桌吧？        </p>
+<p>好了，以上就是今天想分享的内容，希望对你有帮助。      </p>
+<p>如果对你也有帮助的话，别忘了点击下方的<strong>点赞、在看</strong>和<strong>分享</strong>按钮，<strong>你的小小支持，是我持续更新的最大动力</strong>，我们下次再见。     </p>
+]]></content><link href="https://github.com/phh95/gitblog/issues/29" rel="alternate"/><category term="blog"/><published>2022-12-31T11:11:26+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/27</id><title>重新测试一下博客的自动化</title><updated>2022-12-31T11:29:50.251400+00:00</updated><link href="https://github.com/phh95/gitblog/issues/27" rel="alternate"/><published>2022-04-23T13:55:52+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/26</id><title>何去何从</title><updated>2022-12-31T11:29:50.362871+00:00</updated><link href="https://github.com/phh95/gitblog/issues/26" rel="alternate"/><published>2022-01-26T13:27:35+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/25</id><title>测试</title><updated>2022-12-31T11:29:50.465347+00:00</updated><link href="https://github.com/phh95/gitblog/issues/25" rel="alternate"/><published>2022-01-21T13:34:50+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/22</id><title>2022年的第1个flag</title><updated>2022-12-31T11:29:50.574746+00:00</updated><link href="https://github.com/phh95/gitblog/issues/22" rel="alternate"/><published>2022-01-21T09:07:10+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/21</id><title>喜欢一个产品</title><updated>2022-12-31T11:29:50.677345+00:00</updated><link href="https://github.com/phh95/gitblog/issues/21" rel="alternate"/><published>2022-01-19T15:55:38+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/20</id><title>GitHub搭配快捷指令，自动记录每天的起床时间 </title><updated>2022-12-31T11:29:50.785806+00:00</updated><link href="https://github.com/phh95/gitblog/issues/20" rel="alternate"/><published>2021-12-26T14:10:14+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/19</id><title>电脑卡通头像Snap Camera</title><updated>2022-12-31T11:29:50.889288+00:00</updated><link href="https://github.com/phh95/gitblog/issues/19" rel="alternate"/><published>2021-12-11T13:37:46+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/18</id><title>将网页内容保存到Notion的两个浏览器插件</title><updated>2022-12-31T11:29:51.008462+00:00</updated><content type="html"><![CDATA[<p>文/彭宏豪，本文首发于我的公众号「<a href="https://mp.weixin.qq.com/s/bdtVoL6dh4Vtru4eE1Tfxg">效率工具指南</a>」      </p>
 <p>Hello 各位好。   </p>
 <p>之前一篇文章介绍过一款<a href="https://mp.weixin.qq.com/s?__biz=MzAxMjY0NTY5OA==&amp;mid=2649918192&amp;idx=1&amp;sn=d2e4083599d625b419abf62e97af9dee&amp;chksm=83a88eddb4df07cb914cd71bad11816bb2fe02b393e7e01dbc0a93d32bd823e0691613a84e1a&amp;token=2008602560&amp;lang=zh_CN#rd">剪藏工具 Cubox</a>，可以很方便地保存公众号文章或网页内容，但这款工具有个不足的地方：收藏超过 200 篇内容，就需要开通会员。   </p>
 <p>除了充钱，Cubox 还有一个不太令我满意的地方，它与我正在使用的 Notion 是两个独立的软件，收藏与记录的东西不能放在同个软件，搜索东西比较麻烦。   </p>
@@ -35,12 +115,12 @@
 <h2>欢迎关注</h2>
 <p>以上，就是本次想和你分享的内容，希望能够对你有一点帮助。     </p>
 <p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/2021/05/28/gong-zhong-hao-wei-bu-er-wei-ma-dailogo.png" alt="公众号：效率工具指南" />          </p>
-]]></content><link href="https://github.com/phh95/gitblog/issues/18" rel="alternate"/><category term="App"/><category term="Notion"/><published>2021-12-06T12:18:06+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/17</id><title>想起我在GitHub的博客了</title><updated>2022-05-07T06:48:19.250116+00:00</updated><link href="https://github.com/phh95/gitblog/issues/17" rel="alternate"/><published>2021-11-24T08:54:53+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/16</id><title>要换到新的城市了</title><updated>2022-05-07T06:48:19.395569+00:00</updated><content type="html"><![CDATA[<p>上周五去深圳面试，面试通过了，下周就要入职了，即将换到新的城市——深圳。    </p>
+]]></content><link href="https://github.com/phh95/gitblog/issues/18" rel="alternate"/><category term="App"/><category term="Notion"/><published>2021-12-06T12:18:06+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/17</id><title>想起我在GitHub的博客了</title><updated>2022-12-31T11:29:51.133379+00:00</updated><link href="https://github.com/phh95/gitblog/issues/17" rel="alternate"/><published>2021-11-24T08:54:53+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/16</id><title>要换到新的城市了</title><updated>2022-12-31T11:29:51.238325+00:00</updated><content type="html"><![CDATA[<p>上周五去深圳面试，面试通过了，下周就要入职了，即将换到新的城市——深圳。    </p>
 <p>对新城市，需要重新适应。<br />
 对旧城市广州，有点不舍，毕竟包含上大学的时间，来广州有 7 年了。       </p>
 <p>昨天下午在微信听书上随便录了一点东西：       </p>
 <p><img src="https://user-images.githubusercontent.com/29042617/138541503-f4da98b1-c4ee-489b-bf8e-c9f8e2355d40.PNG" alt="album_temp_1634961178" />           </p>
-]]></content><link href="https://github.com/phh95/gitblog/issues/16" rel="alternate"/><category term="life"/><published>2021-10-23T03:53:46+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/15</id><title>下载微博视频的工具Maipo</title><updated>2022-05-07T06:48:19.553795+00:00</updated><content type="html"><![CDATA[<p>很早之前写过一篇文章《<a href="https://mp.weixin.qq.com/s?__biz=MzAxMjY0NTY5OA==&amp;mid=2649880387&amp;idx=1&amp;sn=267ce5c9473d02f57c32b520a2f10a9e&amp;chksm=83abf36eb4dc7a7840ea03c9a389279f8527deb52df4c63862b839bef4564ca63637f6e27e9a&amp;token=2120180942&amp;lang=zh_CN#rd">这10个下载工具，让你成为朋友圈最靓的仔</a>》，介绍了多个下载不同平台视频内容的方法，其中就有一个可用来<strong>下载微博视频</strong>的工具——<strong>iiilab</strong>。  </p>
+]]></content><link href="https://github.com/phh95/gitblog/issues/16" rel="alternate"/><category term="life"/><published>2021-10-23T03:53:46+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/15</id><title>下载微博视频的工具Maipo</title><updated>2022-12-31T11:29:51.353057+00:00</updated><content type="html"><![CDATA[<p>很早之前写过一篇文章《<a href="https://mp.weixin.qq.com/s?__biz=MzAxMjY0NTY5OA==&amp;mid=2649880387&amp;idx=1&amp;sn=267ce5c9473d02f57c32b520a2f10a9e&amp;chksm=83abf36eb4dc7a7840ea03c9a389279f8527deb52df4c63862b839bef4564ca63637f6e27e9a&amp;token=2120180942&amp;lang=zh_CN#rd">这10个下载工具，让你成为朋友圈最靓的仔</a>》，介绍了多个下载不同平台视频内容的方法，其中就有一个可用来<strong>下载微博视频</strong>的工具——<strong>iiilab</strong>。  </p>
 <p>原本只要将想下载的微博视频链接🔗粘贴到下方的输入框，就可以很方便地下载视频。   </p>
 <p><img src="https://article-picbed-1302715071.cos.ap-guangzhou.myqcloud.com/2021/09/24/16324900690259.jpg" alt="" /></p>
 <p>但我前两天想用它来下载视频，意外地发现这个工具已经失效了。  </p>
@@ -60,7 +140,7 @@
 <p>如果你在手机上使用一些第三方的微博 App，可以自行查看一下，App 内是否提供了将视频保存到本地的功能，因为我没有使用第三方的 App，这里就无法提供相关信息了，见谅。   </p>
 <p>以上，就是本次想和你分享的内容。   </p>
 <p>如果对你也有帮助的话，别忘了点击下方的<strong>点赞、在看</strong>和<strong>分享</strong>按钮，<strong>你的小小支持，是我持续更新的最大动力</strong>，我们下次再见。       </p>
-]]></content><link href="https://github.com/phh95/gitblog/issues/15" rel="alternate"/><category term="download"/><published>2021-09-27T03:00:40+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/14</id><title>近期值得关注的App：将微信聊天记录导出为HTML</title><updated>2022-05-07T06:48:19.719325+00:00</updated><content type="html"><![CDATA[<p>好久没更新这类文章了，今天趁着假期，来更新一篇。</p>
+]]></content><link href="https://github.com/phh95/gitblog/issues/15" rel="alternate"/><category term="download"/><published>2021-09-27T03:00:40+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/14</id><title>近期值得关注的App：将微信聊天记录导出为HTML</title><updated>2022-12-31T11:29:51.464815+00:00</updated><content type="html"><![CDATA[<p>好久没更新这类文章了，今天趁着假期，来更新一篇。</p>
 <h2>夸克浏览器</h2>
 <p>夸克浏览器，这里不说夸克的缺点，只说我刚发现夸克的一个功能——<strong>夸克网盘</strong>。</p>
 <p>一个浏览器也推出了网盘功能，只能说现在的工具类产品变现太困难了。</p>
@@ -126,7 +206,7 @@
 <p>说实话，这个将聊天记录导出为 HTML 的方法，操作起来还是非常麻烦的，不适合大多数人。</p>
 <p>我还是期待传说中的「微信付费云存储」早日上线吧。。。不想折腾了，或者是换新手机更快。。。</p>
 <p>以上，希望有帮助。   </p>
-]]></content><link href="https://github.com/phh95/gitblog/issues/14" rel="alternate"/><category term="App"/><published>2021-09-20T02:44:12+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/13</id><title>失业后二三事：代缴社保</title><updated>2022-05-07T06:48:19.898138+00:00</updated><link href="https://github.com/phh95/gitblog/issues/13" rel="alternate"/><published>2021-09-15T10:25:48+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/12</id><title>死亡不是人生的终点，遗忘才是。     </title><updated>2022-05-07T06:48:20.050123+00:00</updated><link href="https://github.com/phh95/gitblog/issues/12" rel="alternate"/><published>2021-09-11T15:53:29+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/11</id><title>离职的时间点</title><updated>2022-05-07T06:48:20.202148+00:00</updated><link href="https://github.com/phh95/gitblog/issues/11" rel="alternate"/><published>2021-09-08T16:14:21+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/10</id><title>GitHub 个人主页美化</title><updated>2022-05-07T06:48:20.358068+00:00</updated><link href="https://github.com/phh95/gitblog/issues/10" rel="alternate"/><published>2021-08-30T23:56:39+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/9</id><title>可以做一辈子的事情：写作&amp;运动</title><updated>2022-05-07T06:48:20.508309+00:00</updated><link href="https://github.com/phh95/gitblog/issues/9" rel="alternate"/><published>2021-08-30T00:37:29+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/8</id><title>今日记录</title><updated>2022-05-07T06:48:20.685756+00:00</updated><link href="https://github.com/phh95/gitblog/issues/8" rel="alternate"/><published>2021-08-24T15:32:51+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/7</id><title>和宝宝认识 1 年了</title><updated>2022-05-07T06:48:20.835692+00:00</updated><link href="https://github.com/phh95/gitblog/issues/7" rel="alternate"/><published>2021-08-23T14:46:52+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/6</id><title>前端学习</title><updated>2022-05-07T06:48:20.994283+00:00</updated><link href="https://github.com/phh95/gitblog/issues/6" rel="alternate"/><published>2021-08-23T07:30:54+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/5</id><title>从美区 Apple ID 下载 GitHub App</title><updated>2022-05-07T06:48:21.145883+00:00</updated><link href="https://github.com/phh95/gitblog/issues/5" rel="alternate"/><published>2021-08-22T10:36:03+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/4</id><title>使用 GitHub Issues 来写博客</title><updated>2022-05-07T06:48:21.299872+00:00</updated><content type="html"><![CDATA[<p>文/彭宏豪，笔名/安哥拉      </p>
+]]></content><link href="https://github.com/phh95/gitblog/issues/14" rel="alternate"/><category term="App"/><published>2021-09-20T02:44:12+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/13</id><title>失业后二三事：代缴社保</title><updated>2022-12-31T11:29:51.584272+00:00</updated><link href="https://github.com/phh95/gitblog/issues/13" rel="alternate"/><published>2021-09-15T10:25:48+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/12</id><title>死亡不是人生的终点，遗忘才是。     </title><updated>2022-12-31T11:29:51.682932+00:00</updated><link href="https://github.com/phh95/gitblog/issues/12" rel="alternate"/><published>2021-09-11T15:53:29+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/11</id><title>离职的时间点</title><updated>2022-12-31T11:29:51.794046+00:00</updated><link href="https://github.com/phh95/gitblog/issues/11" rel="alternate"/><published>2021-09-08T16:14:21+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/10</id><title>GitHub 个人主页美化</title><updated>2022-12-31T11:29:51.906260+00:00</updated><link href="https://github.com/phh95/gitblog/issues/10" rel="alternate"/><published>2021-08-30T23:56:39+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/9</id><title>可以做一辈子的事情：写作&amp;运动</title><updated>2022-12-31T11:29:52.005710+00:00</updated><link href="https://github.com/phh95/gitblog/issues/9" rel="alternate"/><published>2021-08-30T00:37:29+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/8</id><title>今日记录</title><updated>2022-12-31T11:29:52.112808+00:00</updated><link href="https://github.com/phh95/gitblog/issues/8" rel="alternate"/><published>2021-08-24T15:32:51+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/7</id><title>和宝宝认识 1 年了</title><updated>2022-12-31T11:29:52.217100+00:00</updated><link href="https://github.com/phh95/gitblog/issues/7" rel="alternate"/><published>2021-08-23T14:46:52+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/6</id><title>前端学习</title><updated>2022-12-31T11:29:52.324029+00:00</updated><link href="https://github.com/phh95/gitblog/issues/6" rel="alternate"/><published>2021-08-23T07:30:54+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/5</id><title>从美区 Apple ID 下载 GitHub App</title><updated>2022-12-31T11:29:52.427352+00:00</updated><link href="https://github.com/phh95/gitblog/issues/5" rel="alternate"/><published>2021-08-22T10:36:03+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/4</id><title>使用 GitHub Issues 来写博客</title><updated>2022-12-31T11:29:52.538494+00:00</updated><content type="html"><![CDATA[<p>文/彭宏豪，笔名/安哥拉      </p>
 <p>Hello 大家好，我是安哥。</p>
 <p>去年用腾讯云搭建了一个<a href="https://www.penghh.fun"><strong>可在国内正常访问的博客</strong></a>，时间一晃而过，租用一年的服务器就快到期了，由于去年我是腾讯云的<strong>新用户</strong>，可以不到 100 块的价格租到为期一年的服务器。</p>
 <p>但从新客户变成老客户，如果想要继续租用服务器的话，并<strong>没有任何续费优惠</strong>，反而是之后每年的价格都变高了，有点像是其他平台「<strong>大数据杀熟</strong>」的感觉。</p>
@@ -210,4 +290,4 @@
 <p><img src="https://upload-images.jianshu.io/upload_images/1885171-0107d00f7fb6bfff?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片" /> </p>
 <p>以上就是本次想和你分享的内容。<br />
 看完文章如果觉得对你有帮助的话，别忘了点击底部的「<strong>点赞/在看</strong>」鼓励一下我，谢谢。     </p>
-]]></content><link href="https://github.com/phh95/gitblog/issues/4" rel="alternate"/><category term="blog"/><published>2021-08-20T06:52:20+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/3</id><title>今日见闻</title><updated>2022-05-07T06:48:21.486694+00:00</updated><link href="https://github.com/phh95/gitblog/issues/3" rel="alternate"/><published>2021-08-18T12:07:39+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/2</id><title>折腾博客 - 吃了没备份数据的亏</title><updated>2022-05-07T06:48:21.642889+00:00</updated><link href="https://github.com/phh95/gitblog/issues/2" rel="alternate"/><published>2021-08-17T07:17:28+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/1</id><title>使用 GitHub Issues 写博客</title><updated>2022-05-07T06:48:21.795807+00:00</updated><link href="https://github.com/phh95/gitblog/issues/1" rel="alternate"/><published>2021-08-17T05:11:35+00:00</published></entry></feed>
+]]></content><link href="https://github.com/phh95/gitblog/issues/4" rel="alternate"/><category term="blog"/><published>2021-08-20T06:52:20+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/3</id><title>今日见闻</title><updated>2022-12-31T11:29:52.669200+00:00</updated><link href="https://github.com/phh95/gitblog/issues/3" rel="alternate"/><published>2021-08-18T12:07:39+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/2</id><title>折腾博客 - 吃了没备份数据的亏</title><updated>2022-12-31T11:29:52.773553+00:00</updated><link href="https://github.com/phh95/gitblog/issues/2" rel="alternate"/><published>2021-08-17T07:17:28+00:00</published></entry><entry><id>https://github.com/phh95/gitblog/issues/1</id><title>使用 GitHub Issues 写博客</title><updated>2022-12-31T11:29:52.889519+00:00</updated><link href="https://github.com/phh95/gitblog/issues/1" rel="alternate"/><published>2021-08-17T05:11:35+00:00</published></entry></feed>
